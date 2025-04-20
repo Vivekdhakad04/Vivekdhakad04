@@ -15,7 +15,7 @@ Here's a sample GitHub bio that you can use and customize as needed:
 - Web Development for creating tools and software
 
 🌟 **Let’s Connect:**
-- https://www.linkedin.com/in/vivek-dhakad-94932128a/
+- https://www.linkedin.com/in/vivek-dhakad-94932128
 
 🔧 **Tools I Use:**
 - C++, Javascript , HTML/CSS
