@@ -16,6 +16,7 @@ Here's a sample GitHub bio that you can use and customize as needed:
 
 🌟 **Let’s Connect:**
 - https://www.linkedin.com/in/vivek-dhakad-94932128
+- https://www.instagram.com/vivek_.04._/
 
 🔧 **Tools I Use:**
 - C++, Javascript , HTML/CSS
