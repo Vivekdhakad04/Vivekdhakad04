@@ -1,6 +1,6 @@
 ### About Me
 
-👋 Hi there! I’m Vivek Dhakad,
+👋 Hi there! I’m Vivek Dhakad.
 - 🎓 **B.Tech CSE'26** | **GATE CSE'25 Qualified**  
 - 💡 Passionate about **Data Structures, Algorithms**, and **Problem Solving**
 - 💻 Regularly solving problems on platforms like **LeetCode** and **GeeksforGeeks**
